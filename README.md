@@ -22,14 +22,8 @@ The following features have been implemented:
 Here's a walkthrough of some implemented features:
 
 <img src="walkthrough-part2.gif" width=250><br>
+<img src="walkthrough-landscape.gif" width=550><br>
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
-
-
-### App Walkthough GIF
-
-<img src="walkthrough-portrait.gif" width=250><br>
-<img src="walkthrough-landscape.gif" width=550><br>
-
